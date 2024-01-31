@@ -1,0 +1,15 @@
+.contenedor a{ /* selector combinado*/ 
+text-decoration: none; /*borra el subyarado*/
+color: goldenrod; /*pone color a las letras*/
+font-size: 20px; /*tamaño de la fuente*/
+font-weight: bold; /*pone en negritas el texto*/}
+h2{color: gold;/*pone color a las letras*/}
+p{font-size: 18px;/*tamaño de la fuente*/
+ ;color: indigo;/*pone color a las letras*/}
+h3{color: salmon;/*pone color a las letras*/
+text-align: center;/* alinea el texto añ centro*/}
+.contenedor2 p{ /*selector combinado 2*/ 
+color: chocolate;/*pone color a las letras*/}
+.contenedor2 a{/*selector combinado 2*/ 
+color: lightsalmon;/*pone color a las letras*/
+text-decoration: none;/*borra el subyarado*/}
